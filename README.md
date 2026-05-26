@@ -147,6 +147,8 @@ This could silently affect downstream NDVI calculations around sowing periods.
 
 ## AI Usage
 
-ChatGPT was used to assist with project structuring, code readability improvements, and reviewing data quality handling approaches.
+## AI Usage
 
-All implementation decisions and logic were reviewed and validated manually.
+ChatGPT was used as a supplementary tool for brainstorming project structure, reviewing code readability, and discussing potential data quality handling approaches.
+
+All implementation, validation, analysis, and final engineering decisions were completed and verified manually.
